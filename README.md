@@ -1,2 +1,2 @@
 # Clock
-It's an analog clock made with canvas.
+It's an analog clock made with canvas and pure mathematics
